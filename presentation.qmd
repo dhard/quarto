@@ -4,23 +4,13 @@ author: "David Ardell"
 format: revealjs
 ---
 
-## Quarto
+## Literature
 
-Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+- This reference contains important information about RNA-Seq
+- contains i
 
-## Bullets
+## Equations
 
-When you click the **Render** button a document will be generated that includes:
+$$w_A(g) \equiv \prod_i^M \sum_j^M \Big( \frac{\exp(-q\epsilon d^H_{i,j})}{\sum_j \exp(-q\epsilon d^H_{i,j})} \Big) \phi^{d^A_{i,j}}$$ 
 
--   Content authored with markdown
--   Output from executable code
-
-## Code
-
-When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:
-
-```{r}
-1 + 1
-```
-
-
+## References
